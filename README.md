@@ -1,2 +1,2 @@
 # projects
-hello git
+hello git buddy
